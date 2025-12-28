@@ -1,0 +1,20 @@
+Join the Open-Matrix-Standard (OMS) — Building a Digital Soul for Every School
+To all students and developers passionate about AI, coding, and the future of education:
+
+A school is more than just a collection of classrooms; it is a "Matrix" of dynamic knowledge and emerging logic.
+
+Born from the digital experiments at Beijing Normal University Affiliated High School (BNUHS), we are proud to announce the Open-Matrix-Standard (OMS). This is not just a toolkit—it is a next-generation Agent interaction standard designed with Neural Perception and Knowledge Synthesis.
+
+We are looking for:
+
+Knowledge Capsule Architects: Transform your expertise (Physics, History, Art, etc.) into AI-readable "Knowledge Capsules."
+
+Prompt Engineers: Refine the 5-layer interaction logic of OMS to make AI Agents more intuitive and empathetic.
+
+Campus Evangelists: Adapt OMS to your own school, grounding it with local data and Google Maps to create your own digital twin.
+
+Why contribute to OMS? We are leading the paradigm shift from "Skill-based Logic" to "Knowledge Logic." Every Prompt you contribute is not just a line of code—it is a neuron in the digital brain of a future-ready campus.
+
+Take Action Now: Fork our repository on GitHub and submit your first Pull Request. Let’s reshape the campus experience in the digital realm together.
+
+👉 GitHub Repository: wanyview/Open-Matrix-Standard-OMS-
