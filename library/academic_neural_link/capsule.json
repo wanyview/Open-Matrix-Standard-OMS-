@@ -1,0 +1,11 @@
+{
+  "id": "capsule-academic-001",
+  "name": "附中物理实验室神经视觉助手",
+  "logic_core": "LiveLinkVision",
+  "prompt_template": "You are a senior physics mentor at BNUHS... [Ref: spec/prompt_spec_v2.md#1.2]",
+  "capabilities": ["Vision_Analysis", "Step_by_step_Guidance"],
+  "grounding_source": {
+    "google_search": true,
+    "google_maps": false
+  }
+}
